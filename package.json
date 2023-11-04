@@ -1,0 +1,19 @@
+{
+  "name": "dev-chris-wells-com",
+  "version": "0.0.1",
+  "description": "New portfolio website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djwesto/dev-chris-wells-com.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Wells",
+  "license": "N/A",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  }
+}
