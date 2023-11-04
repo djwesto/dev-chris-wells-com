@@ -1,0 +1,4 @@
+.mt-sm { margin-top: var(--space-sm); }
+.mb-sm { margin-bottom: var(--space-sm); }
+.p-sm { padding: var(--space-sm); }
+.text-center { text-align: center; }

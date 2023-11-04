@@ -1,0 +1,21 @@
+.container {
+  max-width: 70ch; /* ch units are width of the "0" character */
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+
+.grid {
+  display: grid;
+  gap: var(--space-md);
+}
+
+.grid-two-columns {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (max-width: 768px) {
+  .grid-two-columns {
+    grid-template-columns: 1fr;
+  }
+}

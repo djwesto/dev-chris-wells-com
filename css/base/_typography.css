@@ -1,0 +1,30 @@
+:root {
+  /* Base font size */
+  --baseFontSize: 2rem; /* 16px */
+  --font-scale-ratio: 1.25;
+
+  /* Type Scale */
+  --font-xs: clamp(0.8rem, 0.8vw, 0.9rem);
+  --font-sm: clamp(0.9rem, 1.0vw, 1.1rem);
+  --font-md: clamp(1rem, 1.2vw, 1.5rem);
+  --font-lg: clamp(1.5rem, 2.0vw, 2.5rem);
+  --font-xl: clamp(2.5rem, 3.0vw, 4rem);
+}
+
+body {
+  font-size: var(--baseFontSize);
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: var(--font-xl);
+}
+
+h2 {
+  font-size: var(--font-lg);
+}
+
+h3 {
+  font-size: var(--font-md);
+}
+/* Continue for h4, h5, p, etc. */
