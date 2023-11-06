@@ -1,14 +1,14 @@
 :root {
   /* Base font size */
-  --baseFontSize: 2rem; /* 16px */
+  --baseFontSize: 1rem; /* 16px */
   --font-scale-ratio: 1.25;
 
   /* Type Scale */
-  --font-xs: clamp(0.8rem, 0.8vw, 0.9rem);
-  --font-sm: clamp(0.9rem, 1.0vw, 1.1rem);
+  --font-xs: clamp(0.5rem, 0.8vw, 0.9rem);
+  --font-sm: clamp(0.666rem, 1.0vw, 1.1rem);
   --font-md: clamp(1rem, 1.2vw, 1.5rem);
   --font-lg: clamp(1.5rem, 2.0vw, 2.5rem);
-  --font-xl: clamp(2.5rem, 3.0vw, 4rem);
+  --font-xl: clamp(2rem, 3.0vw, 4rem);
 }
 
 body {

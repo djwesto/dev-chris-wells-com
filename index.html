@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<style>
+		@font-face {
+			font-family: "Gotham";
+			src: url("fonts/Gotham-Book.woff2") format("woff2");
+		}
+		* {
+			font-family: "Gotham";
+		}
+  	</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chris Wells</title>
-    <link rel="stylesheet" href="css/styles.scss">
+    <link rel="stylesheet" href="css/styles.css">
 <script src="js/script.js" defer></script>
 </head>
 <body>
@@ -14,13 +23,13 @@
         <!-- Main Navigation -->
         <nav id="mainNav">
             <ul id="menuItems">
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#highlights">Highlights</a></li>
-                <li><a href="#clients">Clients</a></li>
+				<li><a href="#work">Work</a></li>
                 <li><a href="#testimonials">Testimonials</a></li>
+				<li><a href="#expertise">Expertise</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#clients">Clients</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="#footer">Footer</a></li>
             </ul>
             <button id="menuButton">&#9776;</button> <!-- This is the "waffle" menu button -->
         </nav>
@@ -28,155 +37,164 @@
 
     <!-- Hero Message Area -->
     <section id="hero">
-        <p class="main-message">A design & digital transformation practitioner with two decades of impact brand expertise.</p>
-        <p class="teaser">I have over 20 years of professional design & digital comms experience (including a decade working in-house for international development NGOs) and, most recently, as in-house design lead at the OECD’s transport directorate (ITF).</p>
+        <h1 class="main-message">Driving change by design: 25 years at the forefront of global impact brand innovation</h1>
+        <p class="teaser">From shaping visual narratives for international NGOs to leading digital transformation at the OECD/ITF, my ambition is to make a meaningful difference through strategic creativity and communications design</p>
     </section>
 
     <!-- About Me Section -->
     <section id="about">
-        <h2>About Me</h2>
-        <p>
-            [Your bio/introduction goes here...]
-        </p>
+        <h2>My mission</h2>
+        <p>For over 20 years, I’ve worked for global NGOs, charities and innovative enterprises – focusing on social justice and environmental sustainability causes.</p>
+		<p>I've carved out a niche, by adapting my extensive commercial design and branding expertise into a toolkit to support international development and diplomacy.</p>
+		<p>I now guide design transformation at the OECD’s International Transport Forum and am committed to continue contributing to purpose-led communications to drive influence and make meaningful progress in the sectors that are important to me.</p>
     </section>
 
-    <!-- Services Section -->
-    <section id="services">
-<h2>Services</h2>
-<!-- Communications design for digital & traditional publishing -->
-<h2>Communications design for digital &amp; traditional publishing</h2>
-<p>I specialise in communicating complex concepts and information visualisation; from initial concept to final web-optimised or press-ready artwork</p>
-<ul>
-    <li>Publishing, reports, corporate literature</li>
-    <li>Environmental graphics, signage and exhibitions</li>
-    <li>Contract publishing</li>
-    <li>Marketing literature &amp; campaign collateral</li>
-    <li>Tenders &amp; funding applications</li>
-</ul>
+    <!-- Case studies -->
+    <section id="work">
+        <h2>My work</h2>
 
-<!-- Visual brand design & identity -->
-<h2>Visual brand design &amp; identity</h2>
-<p>I can help your non-profit strengthen the impact of its visual identity and graphic communications</p>
-<ul>
-    <li>Brand definition and development</li>
-    <li>Brand architecture</li>
-    <li>Brand mark and identity systems design</li>
-    <li>Template, toolkits, identity &amp; style guidelines</li>
-    <li>Campaign branding</li>
-</ul>
+		<!-- Highlight 1: ITF/OECD – Event Branding -->
+		<section class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Art directing the world’s foremost  transport summit">
+		<h3 itemprop="headline">Art direction the world’s foremost transport summit</h3>
+		<p itemprop="description">Every year the ITF hosts the world’s summit for nearly 100 ministers of transport and up to another 1,400 guests from around the world. Such an event demands an exceptionally large number of designed assets. The 2023 summit creative branding and design management was entirely my responsibility.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">ITF/OECD Event Branding</text>
+			</svg>
+			<figcaption>ITF Summit Event Branding</figcaption>
+		</figure>
+		<a href="/work/ITF-summit-event-branding/" itemprop="url">View Project</a>
+		</section>
 
-<!-- Frontend design & theming -->
-<h2>Frontend design &amp; theming</h2>
-<p>I am experienced in frontend design, graphics and theme development for Drupal, WordPress and Rails</p>
-<ul>
-    <li>Web applications</li>
-    <li>Web sites &amp; intranet</li>
-    <li>Site building</li>
-    <li>Mobile application</li>
-    <li>Digital content strategy &amp; management</li>
-    <li>Digital campaigning</li>
-</ul>
+		<!-- Highlight 2: MEDACCESS – Visual Identity -->
+		<section class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Distilling the essence of global health financing innovation">
+		<h3 itemprop="headline">Distilling the essence of global health financing innovation</h3>
+		<p itemprop="description">MedAccess provides advanced volume guarantees and logistics underwriting to the World’s biggest medical supply and pharmaceutical companies. Their brand was unfocused and their brand guidelines were only a few pages of basic detail. They hired me to change that.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">MEDACCESS Visual Identity</text>
+			</svg>
+			<figcaption>MedAccess Visual Identity Restaging</figcaption>
+		</figure>
+		<a href="/work/medaccess-identity-restaging/" itemprop="url">View Project</a>
+		</section>
+
+		<!-- Highlight 3: IWA – Illustration -->
+		<section id="iwa-illustration" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Painting a picture of global water communities">
+		<h3 itemprop="headline">Painting a picture of global water communities</h3>
+		<p itemprop="description">The IWA’s Specialist Groups unit asked me to create this detailed isometric projection of an entire river catchment to promote all 50 of their specialist committees for their annual water conference.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">IWA Illustration</text>
+			</svg>
+			<figcaption>IWA Infographic</figcaption>
+		</figure>
+		<a href="/work/iwa-infographic/" itemprop="url">View Project</a>
+		</section>
+
+		<!-- Highlight 4: IPPF – Publishing Design -->
+		<section id="ippf-publishing-design" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Annual performance reporting suite">
+		<h3 itemprop="headline">Annual performance reporting suite</h3>
+		<p itemprop="description">While I was Creative Design Officer at IPPF’s London HQ, one of the most important projects I delivered was the art direction for their annual report. In the end, I designed the global report from 2011 to 2013. The 2012—13 edition here is the last edition I produced.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">IPPF Publishing Design</text>
+			</svg>
+			<figcaption>IPPF Annual Reporting Suite</figcaption>
+		</figure>
+		<a href="/work/ippf-reporting-suite/" itemprop="url">View Project</a>
+		</section>
+
+		<!-- Highlight 5: PRIMEWATER – Infographics -->
+		<section id="primewater-infographics" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Promoting satellite-based water quality testing for the developing world">
+		<h3 itemprop="headline">Promoting satellite-based water quality testing for the developing world</h3>
+		<p itemprop="description">PrimeWater is an EU Horizon2020-funded research project that generates information on the effects of upstream changes on future water quality and quantity. Building on advanced Earth-Observation data products, integration with additional data sources and diagnostic modelling tools, public and private sector decisions for water resources management are provided with better and actionable information.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">PRIMEWATER Infographics</text>
+			</svg>
+			<figcaption>PrimeWater Infographics</figcaption>
+		</figure>
+		<a href="/work/primewater-infographics/" itemprop="url">View Project</a>
+		</section>
+
+		<!-- Highlight 5: PRIMEWATER – Infographics -->
+		<section id="primewater-infographics" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
+		<meta itemprop="name" content="Promoting satellite-based water quality testing for the developing world">
+		<h3 itemprop="headline">Promoting satellite-based water quality testing for the developing world</h3>
+		<p itemprop="description">PrimeWater is an EU Horizon2020-funded research project that generates information on the effects of upstream changes on future water quality and quantity. Building on advanced Earth-Observation data products, integration with additional data sources and diagnostic modelling tools, public and private sector decisions for water resources management are provided with better and actionable information.</p>
+		<figure>
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
+			<rect width="200" height="200" fill="#cccccc"/>
+			<text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Gotham" font-size="10" fill="#333333">PRIMEWATER Infographics</text>
+			</svg>
+			<figcaption>PrimeWater Infographics</figcaption>
+		</figure>
+		<a href="/work/primewater-infographics/" itemprop="url">View Project</a>
+		</section>
+
+	<!-- Testimonials -->
+	<section id="testimonials">
+		<h2>What my clients say</h2>
+		<blockquote cite="https://medaccess.org/team/rob-kelly/">
+			<p>As well as his strong technical competencies, Chris is flexible and very easy to work with. I have worked with him on a range of projects, all of which have been delivered to a high standard and in a timely manner. In particular, Chris has helped me to translate a modest set of brand guidelines into a sharp and visually engaging annual report, which has received extensive positive feedback inside and outside of our organisation.</p>
+			<cite>Rob Kelly &ndash; Head of Comms, MedAccess</cite>
+		</blockquote>
+
+		<blockquote cite="#">
+			<p>Esse pariatur dolore sunt dolore excepteur labore aliquip. Dolore sunt dolore, excepteur labore aliquip enim. Excepteur, labore aliquip enim magna quis id sunt.</p>
+			<cite>Jennifer Woodside &ndash; Head of Comms, XXXXXXXXXXXXX</cite>
+		</blockquote>
+
+		<blockquote cite="#">
+			<p>Sunt, dolore id irure commodo mollit. Irure commodo mollit exercitation ex in, consectetur. Exercitation ex in, consectetur. Consectetur irure adipiscing consectetur qui anim est.</p>
+			<cite>Paul Bell &ndash; Head of Comms, Transport For Environment</cite>
+		</blockquote>
+	</section>
+
+    <!-- Expertise -->
+    <section id="expertise">
+		<h2>My expertise</h2>
+		<h3>Communications design for digital &amp; traditional publishing</h3>
+		<p>I specialise in communicating complex concepts and information visualisation; from initial concept to final web-optimised or press-ready artwork</p>
+		<ul>
+			<li>Publishing, reports, corporate literature</li>
+			<li>Environmental graphics, signage and exhibitions</li>
+			<li>Contract publishing</li>
+			<li>Marketing literature &amp; campaign collateral</li>
+    		<li>Tenders &amp; funding applications</li>
+		</ul>
+		<h3>Visual brand design &amp; identity</h3>
+		<p>I can help your non-profit strengthen the impact of its visual identity and graphic communications</p>
+		<ul>
+			<li>Brand definition and development</li>
+			<li>Brand architecture</li>
+			<li>Brand mark and identity systems design</li>
+			<li>Template, toolkits, identity &amp; style guidelines</li>
+			<li>Campaign branding</li>
+		</ul>
+
+		<h3>Frontend design &amp; theming</h3>
+		<p>I am experienced in frontend design, graphics and theme development for Drupal, WordPress and Rails</p>
+		<ul>
+			<li>Web applications</li>
+			<li>Web sites &amp; intranet</li>
+			<li>Site building</li>
+			<li>Mobile application</li>
+			<li>Digital content strategy &amp; management</li>
+			<li>Digital campaigning</li>
+		</ul>
     </section>
-
-    <!-- About Me Section -->
-    <section id="about">
-        <h2>Highlights</h2>
-
-<!-- Highlight 1: ITF/OECD – Event Branding -->
-<section id="itf-oecd-event-branding" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Art direction the world’s foremost transport summit">
-  <h2 itemprop="headline">Art direction the world’s foremost transport summit</h2>
-  <p itemprop="description">Every year the ITF hosts the world’s summit for nearly 100 ministers of transport and up to another 1,400 guests from around the world. Such an event demands an exceptionally large number of designed assets. The 2023 summit creative branding and design management was entirely my responsibility.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">ITF/OECD Event Branding</text>
-    </svg>
-    <figcaption>ITF Summit Event Branding</figcaption>
-  </figure>
-  <a href="/work/ITF-summit-event-branding/" itemprop="url">View Project</a>
-</section>
-
-<!-- Highlight 2: MEDACCESS – Visual Identity -->
-<section id="medaccess-visual-identity" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Distilling the essence of global health financing innovation">
-  <h2 itemprop="headline">Distilling the essence of global health financing innovation</h2>
-  <p itemprop="description">MedAccess provides advanced volume guarantees and logistics underwriting to the World’s biggest medical supply and pharmaceutical companies. Their brand was unfocused and their brand guidelines were only a few pages of basic detail. They hired me to change that.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">MEDACCESS Visual Identity</text>
-    </svg>
-    <figcaption>MedAccess Visual Identity Restaging</figcaption>
-  </figure>
-  <a href="/work/medaccess-identity-restaging/" itemprop="url">View Project</a>
-</section>
-
-<!-- Highlight 3: IWA – Illustration -->
-<section id="iwa-illustration" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Painting a picture of global water communities">
-  <h2 itemprop="headline">Painting a picture of global water communities</h2>
-  <p itemprop="description">The IWA’s Specialist Groups unit asked me to create this detailed isometric projection of an entire river catchment to promote all 50 of their specialist committees for their annual water conference.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">IWA Illustration</text>
-    </svg>
-    <figcaption>IWA Infographic</figcaption>
-  </figure>
-  <a href="/work/iwa-infographic/" itemprop="url">View Project</a>
-</section>
-
-<!-- Highlight 4: IPPF – Publishing Design -->
-<section id="ippf-publishing-design" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Annual performance reporting suite">
-  <h2 itemprop="headline">Annual performance reporting suite</h2>
-  <p itemprop="description">While I was Creative Design Officer at IPPF’s London HQ, one of the most important projects I delivered was the art direction for their annual report. In the end, I designed the global report from 2011 to 2013. The 2012—13 edition here is the last edition I produced.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">IPPF Publishing Design</text>
-    </svg>
-    <figcaption>IPPF Annual Reporting Suite</figcaption>
-  </figure>
-  <a href="/work/ippf-reporting-suite/" itemprop="url">View Project</a>
-</section>
-
-<!-- Highlight 5: PRIMEWATER – Infographics -->
-<section id="primewater-infographics" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Promoting satellite-based water quality testing for the developing world">
-  <h2 itemprop="headline">Promoting satellite-based water quality testing for the developing world</h2>
-  <p itemprop="description">PrimeWater is an EU Horizon2020-funded research project that generates information on the effects of upstream changes on future water quality and quantity. Building on advanced Earth-Observation data products, integration with additional data sources and diagnostic modelling tools, public and private sector decisions for water resources management are provided with better and actionable information.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">PRIMEWATER Infographics</text>
-    </svg>
-    <figcaption>PrimeWater Infographics</figcaption>
-  </figure>
-  <a href="/work/primewater-infographics/" itemprop="url">View Project</a>
-</section>
-```
-
-Replace the SVG placeholders with actual images and make sure to check the links to ensure they are correct and functioning.
-
-<!-- Highlight 5: PRIMEWATER – Infographics -->
-
-<section id="primewater-infographics" class="highlight" itemscope itemtype="http://schema.org/CreativeWork">
-  <meta itemprop="name" content="Promoting satellite-based water quality testing for the developing world">
-  <h2 itemprop="headline">Promoting satellite-based water quality testing for the developing world</h2>
-  <p itemprop="description">PrimeWater is an EU Horizon2020-funded research project that generates information on the effects of upstream changes on future water quality and quantity. Building on advanced Earth-Observation data products, integration with additional data sources and diagnostic modelling tools, public and private sector decisions for water resources management are provided with better and actionable information.</p>
-  <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" itemprop="image">
-      <rect width="200" height="200" fill="#cccccc"/>
-      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-family="Arial" font-size="20" fill="#333333">PRIMEWATER Infographics</text>
-    </svg>
-    <figcaption>PrimeWater Infographics</figcaption>
-  </figure>
-  <a href="/work/primewater-infographics/" itemprop="url">View Project</a>
-</section>
-```
-
 
 
 
@@ -185,58 +203,64 @@ Replace the SVG placeholders with actual images and make sure to check the links
 
 
 <!-- Trusted By Section -->
-<section id="clients">
+<section id="clients", style="background-color: darkgrey;">
     <h2>Trusted by</h2>
-    <p>My clients are typically global, purpose-led or impact brands: third-sector organisations such as international development NGOs, IGOs, charities and other nonprofits. But I also work with all kinds of other organisations including evaluation consultancies and innovative social entrepreneurs.</p>
+    <p>I've worked with many of the world's most innovative, purpose-led impact brands. And my work has helped them to reinforce their credibility and win greater influence.</p>
     <div class="client-grid">
-        <p>OECD</p>
-        <p>International Transport Forum</p>
-        <p>Global Environment Facility</p>
-        <p>DHI</p>
-        <p>UNOPS</p>
-        <p>UN Environment</p>
-        <p>PrimeWater</p>
-        <p>Frontline AIDS</p>
-        <p>UNAIDS</p>
-        <p>UNFPA</p>
-        <p>IDLO</p>
-        <p>IIPP</p>
-        <p>IEA</p>
-        <p>MedAccess</p>
-        <p>International Planned Parenthood Federation</p>
-        <p>Commonwealth Office</p>
-        <p>Girls Not Brides</p>
-        <p>International Water Association</p>
-        <p>The Elders</p>
-        <p>Open Data</p>
-        <p>Futuremakers</p>
-        <p>Cities Alliance</p>
-        <p>Lancet Migration Health</p>
-        <p>Green Party UK</p>
-        <p>TripleLine Consulting</p>
-        <p>Catalyst UK</p>
-        <p>Rift Valley Institute</p>
-        <p>CML Support</p>
-        <p>Transition Network</p>
-        <p>Diocese of London</p>
-        <p>100 Million Campaign</p>
+        <img src="img/unops-logo.svg" alt="Logo of the Organisation for Economic Cooperation and Development (OECD)">
+        <img src="img/unops-logo.svg" alt="International Transport Forum">
+        <img src="img/dhi-logo.svg" alt="Logo of DHI">
+        <img src="img/unops-logo.svg" alt="Logo of UNOPS">
+        <img src="img/united-nations-environment-programme-unep-logo.svg" alt="Logo of UN Environment">
+        <img src="img/primewater-logo.svg" alt="Logo of PrimeWater">
+        <img src="img/frontline-aids-logo.svg" alt="Logo of Frontline AIDS">
+        <img src="img/unaids-logo.svg" alt="Logo of UNAIDS">
+        <img src="img/unfpa-logo.svg" alt="Logo of UNFPA">
+        <img src="img/international-development-law-organisation-idlo-logo.svg" alt="Logo of the International Development Law Organisatio (IDLO)">
+        <img src="img/iipp.svg" alt="Logo of UCL's Institute for Innovation and Public Purpose (IIPP)">
+        <img src="img/unops-logo.svg" alt="Logo of the International Energy Agency (IEA)">
+        <img src="img/medaccess-guarantee-ltd-logo.svg" alt="Logo of MedAccess Guarantee Limited">
+        <img src="img/international-planned-parenthood-federation-logo.svg" alt="Logo of the International Planned Parenthood Federation (IPPF)">
+        <img src="img/commonwealth-ukcio-logo.svg" alt="Logo of the Commonwealth Office">
+        <img src="img/girls-not-brides-logo.svg" alt="Logo of Girls Not Brides">
+        <img src="img/international-water-association-iwa-logo.svg" alt="Logo of the International Water Association (IWA)">
+        <img src="img/the-elders-logo.svg" alt="Logo of The Elders">
+        <img src="img/open-data-institute-logo.svg" alt="Logo of The Open Data Institute">
+        <img src="img/futuremakers-logo.svg" alt="Logo of Futuremakers">
+        <img src="img/cities-alliance-logo.svg" alt="Logo of Cities Alliance">
+        <img src="img/lancet-migration-health-logo.svg" alt="Logo of the Lancet Migration Health Commission">
+        <img src="img/green-party-uk-logo.svg" alt="Logo of the UK Green Party">
+        <img src="img/tripleline-logo.svg" alt="Logo of TripleLine Consulting">
+        <img src="img/the-catalyst-uk-logo.svg" alt="Logo of Catalyst UK">
+        <img src="img/rift-valley-institute-logo.svg" alt="Logo of the Rift Valley Institute">
+        <img src="img/chronic-myeloid-leukaemia-support-group-uk-logo.svg" alt="Logo of the CML Support Group UK">
+        <img src="img/transition-network-logo.svg" alt="Logo of the Transition Network">
+        <img src="img/london-diocesan-fund-logo.svg" alt="Logo of the London Diocesan Fund">
+        <img src="img/100-million-campaign-logo.svg" alt="Logo of the 100 Million Campaign">
     </div>
     </section>
 
     <!-- Contact Section -->
     <section id="contact">
-        <h2>Contact</h2>
+        <h2>Currently unavailable for work</h2>
         <p>
-            For inquiries, you can reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a>
+            I have moved back in-house as lead designer at the OECD's *International Transport Forum* which means I cannot take on new projects. For inquiries, you can reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a>
         </p>
     </section>
 
     <!-- Footer Section -->
     <footer>
-        <p>
-            © 2023 Chris Wells. All rights reserved.
-        </p>
-<a rel="me" href="https://mastodon.social/@chrisdwells">Mastodon</a>
+		<ul>
+			<li><a href="mailto:chris@chris-wells.com&subject=Chris Wells website contact form&body=Hey Chris, ">chris@chris-wells.com</a></li>
+			<li><a>+447786221654</a></li>
+			<li><a rel="https://linkedin.com/in/chrisdwells/">LinkedIn</a></li>
+			<li><a rel="me" href="https://mastodon.social/@chrisdwells">Mastodon</a></li>
+			<li><a rel="me" href="https://github.com/djwesto">Github</a></li>
+			<li><a rel="me" href="https://www.behance.net/chriswells">Behance</a></li>
+		</ul>
+		<p>Fellow of the Royal Society of Arts</p>
+		
+        <p>&#xA9; Copyright 2023 &ndash; Chris Wells. All rights reserved.</p>
     </footer>
 </body>
 </html>
