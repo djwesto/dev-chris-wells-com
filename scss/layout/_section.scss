@@ -1,0 +1,20 @@
+footer,
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5px 0;
+}
+
+footer .wrapper,
+section .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 92rem;
+    padding: 1rem 0.5rem;
+}
+
+// Clients section
+#clients {
+    background-color: darkgrey;
+}

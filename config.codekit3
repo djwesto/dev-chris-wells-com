@@ -7,7 +7,7 @@
       "uuidString" : "D1C7F0E3-C719-4D8D-B753-1BFBDC91D7EC"
     }
   ],
-  "creatorBuild" : "34518",
+  "creatorBuild" : "34564",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -41,6 +41,14 @@
       "oAP" : "\/about\/flat-pack.html",
       "oF" : 0
     },
+    "\/about\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/about\/index.html",
+      "oF" : 0
+    },
     "\/about\/testimonials.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -71,6 +79,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/about\/work-with-me.html",
+      "oF" : 0
+    },
+    "\/blog\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/blog\/index.html",
       "oF" : 0
     },
     "\/css\/styles.css" : {
@@ -131,6 +147,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/expertise\/identity.html",
+      "oF" : 0
+    },
+    "\/expertise\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/expertise\/index.html",
       "oF" : 0
     },
     "\/expertise\/product-design.html" : {
@@ -610,6 +634,183 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/work\/the-elders\/case-the-elders-colour-ramps.png" : {
+      "ft" : 32768,
+      "iS" : 697094,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-colour-ramps.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png" : {
+      "ft" : 32768,
+      "iS" : 692794,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png" : {
+      "ft" : 32768,
+      "iS" : 875989,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png" : {
+      "ft" : 32768,
+      "iS" : 611007,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png" : {
+      "ft" : 32768,
+      "iS" : 670592,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png" : {
+      "ft" : 32768,
+      "iS" : 819882,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png" : {
+      "ft" : 32768,
+      "iS" : 1007762,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png" : {
+      "ft" : 32768,
+      "iS" : 625065,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png" : {
+      "ft" : 32768,
+      "iS" : 977244,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/case-the-elders-typeface-system.png" : {
+      "ft" : 32768,
+      "iS" : 937067,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/case-the-elders-typeface-system.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png" : {
+      "ft" : 32768,
+      "iS" : 3417631,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png" : {
+      "ft" : 32768,
+      "iS" : 5937550,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png" : {
+      "ft" : 32768,
+      "iS" : 899708,
+      "oA" : 0,
+      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/index-highlights.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/index-highlights.html",
+      "oF" : 0
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -723,6 +924,51 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/scss\/components\/_hero-image.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_hero-image.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/components\/_highlights.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_highlights.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/components\/_logo.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_logo.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/scss\/components\/_modals.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -748,6 +994,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_nav.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/layout\/_client-grid.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_client-grid.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -793,6 +1054,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/layout\/_section.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_section.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1015,6 +1291,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/work\/girls-not-brides-identity-restaging.html",
+      "oF" : 0
+    },
+    "\/work\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/work\/index.html",
       "oF" : 0
     },
     "\/work\/ippf-reporting-suite.html" : {
@@ -1911,9 +2195,6 @@
       "no-new-native-nonconstructor" : {
         "active" : 0
       },
-      "no-new-object" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -1925,6 +2206,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1

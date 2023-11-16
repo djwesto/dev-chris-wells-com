@@ -1,0 +1,29 @@
+// .highlight {
+//     display: grid;
+//     grid-template-columns: 1fr 1fr;
+//     gap: 2rem;
+//     margin: 1rem 0;
+// }
+
+// /* Responsive behavior for mobile */
+// @media (max-width: 768px) {
+//     .highlight {
+//         grid-template-columns: 1fr;
+//     }
+// }
+
+// /* Alternating layout for desktop */
+// .highlight:nth-child(even) {
+//     direction: rtl;
+// }
+
+// .highlight:nth-child(even) .content,
+// .highlight:nth-child(even) .hero-image {
+//     direction: ltr;
+// }
+    
+    // display: flex;
+    // flex-direction: column;
+    // background-color: palegoldenrod;
+    // justify-content: start;
+    // background-color: violet;
