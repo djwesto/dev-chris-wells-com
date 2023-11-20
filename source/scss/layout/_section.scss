@@ -1,0 +1,32 @@
+footer,
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.wrapper {
+    width: 92rem;
+    display: flex;
+    flex-direction: row;
+}
+
+// .row .wrapper {
+    //     background-color: aqua;
+    //     display: flex;
+    //     flex-direction: column;
+    //     padding: 2rem 0;
+    // }
+    
+    // Clients section
+    #clients {
+        background-color: darkgrey;
+    }
+    
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    border: 1px red dotted;
+}

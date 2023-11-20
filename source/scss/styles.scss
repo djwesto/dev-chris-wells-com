@@ -1,0 +1,79 @@
+/* Import statements */
+
+// Base
+@import 'base/_globals.scss';
+@import 'base/_normalize.scss';
+@import 'base/_spacing.scss';
+@import 'base/_typography.scss';
+
+// Components
+@import 'components/_buttons.scss';
+@import 'components/_nav.scss';
+@import 'components/_cards.scss';
+@import 'components/_modals.scss';
+@import 'components/_highlights.scss';
+@import 'components/_hero-image.scss';
+@import 'components/_logo.scss';
+@import 'components/_col.scss';
+
+// Layout
+@import 'layout/_footer.scss';
+@import 'layout/_grid.scss';
+@import 'layout/_client-grid.scss';
+@import 'layout/_section.scss';
+@import 'layout/_header.scss';
+@import 'layout/_sidebar.scss';
+
+// Themes
+
+// Utilities
+@import 'utilities/_functions.scss';
+@import 'utilities/_mixins.scss';
+@import 'utilities/_variables.scss';
+
+/* Base styles */
+.services-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* spacing between service sections */
+}
+
+/* Media query for desktop */
+@media (min-width: 768px) { /* Adjust this value based on when you want the change to take effect */
+    .services-container {
+        flex-direction: row;
+    }
+}
+
+/* Remove bullet points from unordered lists */
+ul {
+    list-style-type: none;
+    padding-left: 0; /* Remove default padding */
+    margin: 0;
+}
+
+/* Add a pale grey line between list items */
+ul li {
+    border-bottom: 1px solid #eaeaea; /* pale grey line */
+    padding: 5px 0; /* some padding to space out the list items a bit */
+}
+
+/* Remove the border from the last list item */
+ul li:last-child {
+    border-bottom: none;
+}
+
+
+
+/* Media query for desktop */
+@media (min-width: 768px) { /* Adjust the breakpoint if needed */
+    .client-grid {
+        grid-template-columns: repeat(10, 1fr); /* 10 columns on desktop */
+    }
+}
+
+.hero-image img {
+    width: 100%;
+    height: auto;
+}
+

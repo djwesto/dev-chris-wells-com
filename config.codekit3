@@ -14,821 +14,14 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/.gitignore",
+      "oAP" : "\/public\/.gitignore",
       "oF" : 0
     },
-    "\/about\/career.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/career.html",
+    "\/public" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/public\/public",
       "oF" : 0
-    },
-    "\/about\/clients.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/clients.html",
-      "oF" : 0
-    },
-    "\/about\/flat-pack.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/flat-pack.html",
-      "oF" : 0
-    },
-    "\/about\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/index.html",
-      "oF" : 0
-    },
-    "\/about\/testimonials.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/testimonials.html",
-      "oF" : 0
-    },
-    "\/about\/this-site.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/this-site.html",
-      "oF" : 0
-    },
-    "\/about\/tools.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/tools.html",
-      "oF" : 0
-    },
-    "\/about\/work-with-me.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/about\/work-with-me.html",
-      "oF" : 0
-    },
-    "\/blog\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/blog\/index.html",
-      "oF" : 0
-    },
-    "\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 1,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/expertise\/content-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/content-design.html",
-      "oF" : 0
-    },
-    "\/expertise\/content-strategy.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/content-strategy.html",
-      "oF" : 0
-    },
-    "\/expertise\/design-systems.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/design-systems.html",
-      "oF" : 0
-    },
-    "\/expertise\/digital-transformation.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/digital-transformation.html",
-      "oF" : 0
-    },
-    "\/expertise\/graphic-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/graphic-design.html",
-      "oF" : 0
-    },
-    "\/expertise\/identity.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/identity.html",
-      "oF" : 0
-    },
-    "\/expertise\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/index.html",
-      "oF" : 0
-    },
-    "\/expertise\/product-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/product-design.html",
-      "oF" : 0
-    },
-    "\/expertise\/publishing-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/expertise\/publishing-design.html",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-Bold.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-Bold.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-BoldItalic.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-BoldItalic.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-Book.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-Book.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-BookItalic.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-BookItalic.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-Light.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-Light.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-LightItalic.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-LightItalic.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-Medium.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-Medium.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/Gotham-MediumItalic.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/Gotham-MediumItalic.woff2",
-      "oF" : 0
-    },
-    "\/img\/100-million-campaign-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/100-million-campaign-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/charitycomms-memberbadge-light-01.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/charitycomms-memberbadge-light-01.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/chimni-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/chimni-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/chronic-myeloid-leukaemia-support-group-uk-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/chronic-myeloid-leukaemia-support-group-uk-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/cities-alliance-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/cities-alliance-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/commonwealth-ukcio-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/commonwealth-ukcio-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/cwl-logo—light4x-p-500.png" : {
-      "ft" : 32768,
-      "iS" : 9760,
-      "oA" : 0,
-      "oAP" : "\/img\/cwl-logo—light4x-p-500.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/cwl-logo—light4x.png" : {
-      "ft" : 32768,
-      "iS" : 14113,
-      "oA" : 0,
-      "oAP" : "\/img\/cwl-logo—light4x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/dhi-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/dhi-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/favicon.ico" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/img\/favicon.ico",
-      "oF" : 0
-    },
-    "\/img\/folk-labs-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/folk-labs-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/frontline-aids-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/frontline-aids-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/futuremakers-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/futuremakers-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/girls-not-brides-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/girls-not-brides-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/girlsnotbrides_logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/girlsnotbrides_logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/global-environment-facility-gef-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/global-environment-facility-gef-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/green-party-uk-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/green-party-uk-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/iipp.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/iipp.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/international-development-law-organisation-idlo-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/international-development-law-organisation-idlo-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/international-planned-parenthood-federation-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/international-planned-parenthood-federation-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/international-water-association-iwa-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/international-water-association-iwa-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/la-grande-raisandiere-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/la-grande-raisandiere-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/lancet-migration-health-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/lancet-migration-health-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/london-diocesan-fund-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/london-diocesan-fund-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/medaccess-guarantee-ltd-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/medaccess-guarantee-ltd-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/metroflows-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/metroflows-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/open-data-institute-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/open-data-institute-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/primewater-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/primewater-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/rift-valley-institute-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/rift-valley-institute-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/singfinger-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/singfinger-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/the-catalyst-uk-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/the-catalyst-uk-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/the-elders-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/the-elders-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/transition-network-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/transition-network-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/tripleline-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/tripleline-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/unaids-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/unaids-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/unfpa-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/unfpa-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/united-nations-environment-programme-unep-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/united-nations-environment-programme-unep-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/unops-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/unops-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/webclip.png" : {
-      "ft" : 32768,
-      "iS" : 3290,
-      "oA" : 0,
-      "oAP" : "\/img\/webclip.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-colour-ramps.png" : {
-      "ft" : 32768,
-      "iS" : 697094,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-colour-ramps.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png" : {
-      "ft" : 32768,
-      "iS" : 692794,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png" : {
-      "ft" : 32768,
-      "iS" : 875989,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png" : {
-      "ft" : 32768,
-      "iS" : 611007,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png" : {
-      "ft" : 32768,
-      "iS" : 670592,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png" : {
-      "ft" : 32768,
-      "iS" : 819882,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png" : {
-      "ft" : 32768,
-      "iS" : 1007762,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png" : {
-      "ft" : 32768,
-      "iS" : 625065,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png" : {
-      "ft" : 32768,
-      "iS" : 977244,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/case-the-elders-typeface-system.png" : {
-      "ft" : 32768,
-      "iS" : 937067,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/case-the-elders-typeface-system.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png" : {
-      "ft" : 32768,
-      "iS" : 3417631,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png" : {
-      "ft" : 32768,
-      "iS" : 5937550,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png" : {
-      "ft" : 32768,
-      "iS" : 899708,
-      "oA" : 0,
-      "oAP" : "\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/index-highlights.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/index-highlights.html",
-      "oF" : 0
-    },
-    "\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/index.html",
-      "oF" : 2
-    },
-    "\/js\/script.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/js\/script-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
     },
     "\/README.md" : {
       "cB" : 0,
@@ -840,7 +33,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/README.html",
+      "oAP" : "\/public\/README.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
@@ -849,7 +42,840 @@
       "rFN" : 0,
       "uCM" : 0
     },
-    "\/scss\/base\/_normalize.scss" : {
+    "\/source\/about\/career.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/career.html",
+      "oF" : 0
+    },
+    "\/source\/about\/clients.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/clients.html",
+      "oF" : 0
+    },
+    "\/source\/about\/flat-pack.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/flat-pack.html",
+      "oF" : 0
+    },
+    "\/source\/about\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/index.html",
+      "oF" : 0
+    },
+    "\/source\/about\/testimonials.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/testimonials.html",
+      "oF" : 0
+    },
+    "\/source\/about\/this-site.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/this-site.html",
+      "oF" : 0
+    },
+    "\/source\/about\/tools.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/tools.html",
+      "oF" : 0
+    },
+    "\/source\/about\/work-with-me.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/about\/work-with-me.html",
+      "oF" : 0
+    },
+    "\/source\/contact\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/contact\/index.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/content-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/content-design.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/content-strategy.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/content-strategy.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/design-systems.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/design-systems.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/digital-transformation.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/digital-transformation.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/graphic-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/graphic-design.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/identity.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/identity.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/index.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/product-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/product-design.html",
+      "oF" : 0
+    },
+    "\/source\/expertise\/publishing-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/expertise\/publishing-design.html",
+      "oF" : 0
+    },
+    "\/source\/img\/100-million-campaign-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/100-million-campaign-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/charitycomms-memberbadge-light-01.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/charitycomms-memberbadge-light-01.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/chimni-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/chimni-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/chronic-myeloid-leukaemia-support-group-uk-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/chronic-myeloid-leukaemia-support-group-uk-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/cities-alliance-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/cities-alliance-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/commonwealth-ukcio-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/commonwealth-ukcio-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/cwl-logo—light4x-p-500.png" : {
+      "ft" : 32768,
+      "iS" : 9760,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/cwl-logo—light4x-p-500.png",
+      "oF" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/cwl-logo—light4x.png" : {
+      "ft" : 32768,
+      "iS" : 14113,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/cwl-logo—light4x.png",
+      "oF" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/dhi-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/dhi-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/favicon.ico",
+      "oF" : 1
+    },
+    "\/source\/img\/folk-labs-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/folk-labs-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/frontline-aids-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/frontline-aids-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/futuremakers-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/futuremakers-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/girls-not-brides-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/girls-not-brides-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/girlsnotbrides_logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/girlsnotbrides_logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/global-environment-facility-gef-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/global-environment-facility-gef-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/green-party-uk-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/green-party-uk-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/iipp.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/iipp.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/international-development-law-organisation-idlo-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/international-development-law-organisation-idlo-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/international-planned-parenthood-federation-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/international-planned-parenthood-federation-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/international-water-association-iwa-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/international-water-association-iwa-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/la-grande-raisandiere-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/la-grande-raisandiere-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/lancet-migration-health-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/lancet-migration-health-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/london-diocesan-fund-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/london-diocesan-fund-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/medaccess-guarantee-ltd-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/medaccess-guarantee-ltd-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/metroflows-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/metroflows-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/open-data-institute-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/open-data-institute-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/primewater-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/primewater-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/rift-valley-institute-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/rift-valley-institute-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/singfinger-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/singfinger-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/the-catalyst-uk-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/the-catalyst-uk-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/the-elders-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/the-elders-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/transition-network-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/transition-network-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/tripleline-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/tripleline-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/unaids-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/unaids-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/unfpa-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/unfpa-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/united-nations-environment-programme-unep-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/united-nations-environment-programme-unep-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/unops-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/unops-logo.svg",
+      "oF" : 1,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/source\/img\/webclip.png" : {
+      "ft" : 32768,
+      "iS" : 3290,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/webclip.png",
+      "oF" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-colour-ramps.png" : {
+      "ft" : 32768,
+      "iS" : 697094,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-colour-ramps.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png" : {
+      "ft" : 32768,
+      "iS" : 692794,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-fontawesome-system.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png" : {
+      "ft" : 32768,
+      "iS" : 875989,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-logo-analysis-after.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png" : {
+      "ft" : 32768,
+      "iS" : 611007,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-01-base.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png" : {
+      "ft" : 32768,
+      "iS" : 670592,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-02-portrait.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png" : {
+      "ft" : 32768,
+      "iS" : 819882,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-03-quotagram.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png" : {
+      "ft" : 32768,
+      "iS" : 1007762,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-04-photo.png",
+      "oF" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png" : {
+      "ft" : 32768,
+      "iS" : 625065,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-05-quote.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png" : {
+      "ft" : 32768,
+      "iS" : 977244,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-post-grid-06-event.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/case-the-elders-typeface-system.png" : {
+      "ft" : 32768,
+      "iS" : 937067,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/case-the-elders-typeface-system.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png" : {
+      "ft" : 32768,
+      "iS" : 3417631,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.20@2x.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png" : {
+      "ft" : 32768,
+      "iS" : 5937550,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.21@2x.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png" : {
+      "ft" : 32768,
+      "iS" : 899708,
+      "oA" : 2,
+      "oAP" : "\/public\/img\/work\/the-elders\/Shot – CaseStudy_TheElders.pdf [Acrobat] – 2023-11-16 at 02.22@2x.png",
+      "oF" : 1,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/index-highlights.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/index-highlights.html",
+      "oF" : 2
+    },
+    "\/source\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/index.html",
+      "oF" : 2
+    },
+    "\/source\/js\/script.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/public\/js\/script-min.js",
+      "oF" : 1,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/source\/notes\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/notes\/index.html",
+      "oF" : 2
+    },
+    "\/source\/partials\/_breadcrumb.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_breadcrumb.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_client-grid.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_client-grid.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_close.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_close.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_contact-me.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_contact-me.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_header.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_header.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_hero.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_hero.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_nav.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_nav.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_open.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_open.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_project-card.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_project-card.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_project-details.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_project-details.html",
+      "oF" : 0
+    },
+    "\/source\/partials\/_related-projects.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/partials\/_related-projects.html",
+      "oF" : 0
+    },
+    "\/source\/scss\/base\/_globals.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -858,13 +884,28 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_normalize.css",
+      "oAP" : "\/public\/public\/css\/_globals.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/source\/scss\/base\/_normalize.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/build\/public\/css\/_normalize.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/base\/_spacing.scss" : {
+    "\/source\/scss\/base\/_spacing.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -873,13 +914,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_spacing.css",
+      "oAP" : "\/public\/public\/css\/_spacing.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/base\/_typography.scss" : {
+    "\/source\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -888,13 +929,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_typography.css",
+      "oAP" : "\/public\/public\/css\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_buttons.scss" : {
+    "\/source\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -903,13 +944,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_buttons.css",
+      "oAP" : "\/public\/public\/css\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_cards.scss" : {
+    "\/source\/scss\/components\/_cards.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -918,13 +959,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_cards.css",
+      "oAP" : "\/public\/public\/css\/_cards.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_hero-image.scss" : {
+    "\/source\/scss\/components\/_col.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -933,13 +974,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_hero-image.css",
+      "oAP" : "\/public\/public\/css\/_col.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_highlights.scss" : {
+    "\/source\/scss\/components\/_hero-image.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -948,13 +989,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_highlights.css",
+      "oAP" : "\/public\/public\/css\/_hero-image.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_logo.scss" : {
+    "\/source\/scss\/components\/_highlights.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -963,13 +1004,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_logo.css",
+      "oAP" : "\/public\/public\/css\/_highlights.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_modals.scss" : {
+    "\/source\/scss\/components\/_logo.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -978,13 +1019,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_modals.css",
+      "oAP" : "\/public\/public\/css\/_logo.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/components\/_nav.scss" : {
+    "\/source\/scss\/components\/_modals.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -993,13 +1034,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_nav.css",
+      "oAP" : "\/public\/public\/css\/_modals.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_client-grid.scss" : {
+    "\/source\/scss\/components\/_nav.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1008,13 +1049,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_client-grid.css",
+      "oAP" : "\/public\/public\/css\/_nav.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_footer.scss" : {
+    "\/source\/scss\/layout\/_client-grid.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1023,13 +1064,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_footer.css",
+      "oAP" : "\/public\/public\/css\/_client-grid.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_grid.scss" : {
+    "\/source\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1038,13 +1079,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_grid.css",
+      "oAP" : "\/public\/public\/css\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_header.scss" : {
+    "\/source\/scss\/layout\/_grid.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1053,13 +1094,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_header.css",
+      "oAP" : "\/public\/public\/css\/_grid.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_section.scss" : {
+    "\/source\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1068,13 +1109,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_section.css",
+      "oAP" : "\/public\/public\/css\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/layout\/_sidebar.scss" : {
+    "\/source\/scss\/layout\/_section.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1083,13 +1124,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_sidebar.css",
+      "oAP" : "\/public\/public\/css\/_section.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/styles.scss" : {
+    "\/source\/scss\/layout\/_sidebar.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1097,14 +1138,29 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/public\/public\/css\/_sidebar.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/source\/scss\/styles.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 1,
       "oA" : 0,
-      "oAP" : "\/css\/styles.css",
+      "oAP" : "\/public\/css\/styles.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/utilities\/_functions.scss" : {
+    "\/source\/scss\/utilities\/_functions.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1113,13 +1169,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_functions.css",
+      "oAP" : "\/public\/public\/css\/_functions.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/utilities\/_mixins.scss" : {
+    "\/source\/scss\/utilities\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1128,13 +1184,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_mixins.css",
+      "oAP" : "\/public\/public\/css\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/scss\/utilities\/_variables.scss" : {
+    "\/source\/scss\/utilities\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -1143,219 +1199,219 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_variables.css",
+      "oAP" : "\/public\/public\/css\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/work\/archives\/catalystuk-journey-maps.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/catalystuk-journey-maps.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/catalystuk-journey-maps.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/catalystuk-journey-maps.html",
+      "oF" : 2
     },
-    "\/work\/archives\/cml-support-drupal-site.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/chimni-saas-app.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/cml-support-drupal-site.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/chimni-saas-app.html",
+      "oF" : 2
     },
-    "\/work\/archives\/elders-identity-restaging.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/cities-alliance-reporting-suite.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/elders-identity-restaging.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/cities-alliance-reporting-suite.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippf-girls-decide-report.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/cml-support-drupal-site.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippf-girls-decide-report.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/cml-support-drupal-site.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippf-health-icon-system.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/elders-identity-restaging.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippf-health-icon-system.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/elders-identity-restaging.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippf-stand-and-deliver.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/girls-not-brides-identity-restaging.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippf-stand-and-deliver.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/girls-not-brides-identity-restaging.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippf-vision2020-campaign.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/index.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippf-vision2020-campaign.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/index.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippf-youth-guidelines.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-girls-decide-report.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippf-youth-guidelines.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-girls-decide-report.html",
+      "oF" : 2
     },
-    "\/work\/archives\/ippfat60-campaign.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-health-icon-system.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/ippfat60-campaign.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-health-icon-system.html",
+      "oF" : 2
     },
-    "\/work\/archives\/iwa-flood-drought-infographics.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-reporting-suite.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/iwa-flood-drought-infographics.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-reporting-suite.html",
+      "oF" : 2
     },
-    "\/work\/archives\/logo-identity-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-stand-and-deliver.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/logo-identity-design.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-stand-and-deliver.html",
+      "oF" : 2
     },
-    "\/work\/archives\/odi-datopolis-game-design.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-vision2020-campaign.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/odi-datopolis-game-design.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-vision2020-campaign.html",
+      "oF" : 2
     },
-    "\/work\/archives\/rethink-ai-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippf-youth-guidelines.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/rethink-ai-poster.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippf-youth-guidelines.html",
+      "oF" : 2
     },
-    "\/work\/archives\/transition-free-press.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/ippfat60-campaign.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/transition-free-press.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/ippfat60-campaign.html",
+      "oF" : 2
     },
-    "\/work\/archives\/uk-green-party-promotions.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/itf-summit-event-branding.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/archives\/uk-green-party-promotions.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/itf-summit-event-branding.html",
+      "oF" : 2
     },
-    "\/work\/chimni-saas-app.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/iwa-flood-drought-infographics.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/chimni-saas-app.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/iwa-flood-drought-infographics.html",
+      "oF" : 2
     },
-    "\/work\/cities-alliance-reporting-suite.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/iwa-infographic.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/cities-alliance-reporting-suite.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/iwa-infographic.html",
+      "oF" : 2
     },
-    "\/work\/girls-not-brides-identity-restaging.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/logo-identity-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/girls-not-brides-identity-restaging.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/logo-identity-design.html",
+      "oF" : 2
     },
-    "\/work\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/medaccess-annual-reports.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/index.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/medaccess-annual-reports.html",
+      "oF" : 2
     },
-    "\/work\/ippf-reporting-suite.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/medaccess-identity-restaging.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/ippf-reporting-suite.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/medaccess-identity-restaging.html",
+      "oF" : 2
     },
-    "\/work\/itf-summit-event-branding.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/metroflows-saas-app.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/itf-summit-event-branding.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/metroflows-saas-app.html",
+      "oF" : 2
     },
-    "\/work\/iwa-infographic.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/odi-datopolis-game-design.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/iwa-infographic.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/odi-datopolis-game-design.html",
+      "oF" : 2
     },
-    "\/work\/medaccess-annual-reports.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/primewater-infographics.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/medaccess-annual-reports.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/primewater-infographics.html",
+      "oF" : 2
     },
-    "\/work\/medaccess-identity-restaging.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/rethink-ai-poster.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/medaccess-identity-restaging.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/rethink-ai-poster.html",
+      "oF" : 2
     },
-    "\/work\/metroflows-saas-app.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/transition-free-press.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/metroflows-saas-app.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/transition-free-press.html",
+      "oF" : 2
     },
-    "\/work\/primewater-infographics.html" : {
-      "cB" : 0,
-      "ft" : 8192,
+    "\/source\/work\/uk-green-party-promotions.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/work\/primewater-infographics.html",
-      "oF" : 0
+      "oAP" : "\/public\/work\/uk-green-party-promotions.html",
+      "oF" : 2
     }
   },
   "hooks" : [
@@ -1367,9 +1423,10 @@
   "projectAttributes" : {
     "creationDate" : 720881514.72786295,
     "displayValue" : "dev-chris-wells-com",
-    "displayValueWasSetByUser" : 0,
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "meme-yesBaby",
-    "iconImageWasSetByUser" : 1
+    "iconImageWasSetByUser" : 1,
+    "lastBuiltDate" : 722127282.23549604
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -1664,8 +1721,8 @@
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
     "buildEnvironment" : 1,
-    "buildFolderActive" : 0,
-    "buildFolderName" : "build",
+    "buildFolderActive" : 1,
+    "buildFolderName" : "public",
     "cleanBuild" : 1,
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
@@ -2730,7 +2787,7 @@
       "autoOutputPathReplace2" : "html",
       "autoOutputPathStyle" : 0,
       "htmlMinifierStyle" : 0,
-      "shouldRunCacheBuster" : 0
+      "shouldRunCacheBuster" : 1
     },
     "languageDefaultsLESS" : {
       "allowInsecureImports" : 0,
@@ -2810,7 +2867,7 @@
     "languageDefaultsSASS" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*.css",
-      "autoOutputPathRelativePath" : "\/css",
+      "autoOutputPathRelativePath" : "public\/css",
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 1,
@@ -2891,7 +2948,7 @@
     "npmSaveExactVersion" : 0,
     "npmTargetDependencyListType" : 1,
     "overrideExternalServerCSS" : 0,
-    "previewPathAddition" : "",
+    "previewPathAddition" : "\/public\/index.html",
     "purgeCSS" : {
       "blocklistEntries" : [
 
@@ -3262,7 +3319,7 @@
     "webpPresets" : {
 
     },
-    "websiteRelativeRoot" : ""
+    "websiteRelativeRoot" : "public"
   },
   "settingsFileVersion" : "3"
 }
