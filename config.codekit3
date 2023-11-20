@@ -42,6 +42,14 @@
       "rFN" : 0,
       "uCM" : 0
     },
+    "\/source\/404.kit" : {
+      "cB" : 1,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/404.html",
+      "oF" : 0
+    },
     "\/source\/about\/career.kit" : {
       "cB" : 1,
       "ft" : 2048,
